@@ -10,7 +10,7 @@
 
 I am kind of superised that the world is not as bad as I thought. Such as majority of the world population live middle income countries, and the life expectancy of the world population is 70 years. 
 
-** Choose a question from the test, re-state it, and answer it using visualization and summarization. Provide a figure and any relevant output with your answer.**
+**Choose a question from the test, re-state it, and answer it using visualization and summarization. Provide a figure and any relevant output with your answer.**
 
 Original question : Where does the majority of the world population live?
 
@@ -30,7 +30,7 @@ GDP cross country
 
 1960
 ![GDP per capita cross country in 1960]
-(graph/1960gdppercap.png)
+(https://github.com/tonytontian/DS5500/blob/master/graph/1960gdppercap.png)
 
 1970
 ![GDP per capita cross country in 1960]
