@@ -18,8 +18,7 @@ Re-state: what's the distribution of current world-wide population in terms of i
 
 I used population dataset to get population data along with country code. And merged with country dataset, where have income group. Used groupby function to calculate the number of population within each income group.
 
-![Image of population distribution based on income]
-(graph/income_distribution.png)
+![image](graph/income_distribution.png)
 
 ## Question 2
 
@@ -67,6 +66,6 @@ Overall, the gdp per capita is increasing for most of region, but for affrica, t
 mortality over time. How does each measure change over time within each continent?
 Interpret your visualizations, noting any trends and/or outliers.**
 
-![image](graph/gdp_child_life.gif]
+![image](graph/gdp_child_life.gif)
 
 
