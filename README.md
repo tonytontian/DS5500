@@ -29,42 +29,39 @@ of income changes over time**
 GDP cross country
 
 1960
-![GDP per capita cross country in 1960]
-(https://github.com/tonytontian/DS5500/blob/master/graph/1960gdppercap.png)
+
+ ![image](https://github.com/tonytontian/DS5500/blob/master/graph/1960gdppercap.png)
+GDP per capita cross country in 1960
 
 1970
-![GDP per capita cross country in 1960]
-(graph/1960gdppercap.png)
+![image](graph/1960gdppercap.png)
+GDP per capita cross country in 1970
 
 1980
-![GDP per capita cross country in 1960]
-(graph/1960gdppercap.png)
+![image](graph/1980gdppercap.png)
 
 
 1990
-![GDP per capita cross country in 1960]
-(graph/1960gdppercap.png)
+![image](graph/1990gdppercap.png)
+
 
 2000
-![GDP per capita cross country in 1960]
-(graph/1960gdppercap.png)
+![image](graph/2000gdppercap.png)
 
 2010
-![GDP per capita cross country in 1960]
-(graph/1960gdppercap.png)
+![image](graph/2010gdppercap.png)
 
 
 GDP cross continent
-(graph/gdp_per_cap_continent.png)
+![image](graph/gdp_per_cap_continent.png)
+
 
 
 ** Interpret the visualization and what you notice. Are they any notable trends and/or deviations from that
 trend?  What caveats apply to your conclusions? ** **
 
-Overall, the gdp per capita is increasing for most of region, but for affrica
+Overall, the gdp per capita is increasing for most of region, but for affrica, the gdppercapita does not quite improve. Also the difference between highly developped area and low level developped area is increasing accross time. The reason may be regional war, gaming between super power, or so.
 
 ## 
 
-If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
