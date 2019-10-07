@@ -62,6 +62,11 @@ trend?  What caveats apply to your conclusions? ** **
 
 Overall, the gdp per capita is increasing for most of region, but for affrica, the gdppercapita does not quite improve. Also the difference between highly developped area and low level developped area is increasing accross time. The reason may be regional war, gaming between super power, or so.
 
-## 
+## Question 3
+**Use visualization to investigate the relationship between income (GDP / capita), life expectancy, and child
+mortality over time. How does each measure change over time within each continent?
+Interpret your visualizations, noting any trends and/or outliers.**
+
+![image](graph/gdp_child_life.gif]
 
 
