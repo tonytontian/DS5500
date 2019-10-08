@@ -18,8 +18,7 @@ Re-state: what's the distribution of current world-wide population in terms of i
 
 I used population dataset to get population data along with country code. And merged with country dataset, where have income group. Used groupby function to calculate the number of population within each income group.
 
-![Image of population distribution based on income]
-(graph/income_distribution.png)
+![image](graph/income_distribution.png)
 
 ## Question 2
 
@@ -69,6 +68,7 @@ Interpret your visualizations, noting any trends and/or outliers.**
 
 ![image](graph/gdp_child_life.gif)
 
+
 ##Question 4
 
 
@@ -89,12 +89,13 @@ total broadband subscriber
 ##Question 5
 **Did you use static or interactive plots to answer the previous problems?
 Explore the data using the interactive visualization tools at https://www.gapminder.org/tools, and watch
-the TED talk ?The best stats you?ve ever seen? at https://www.youtube.com/watch?v=hVimVzgtD6w.
+the TED talk ?The best stats you have ever seen? at https://www.youtube.com/watch?v=hVimVzgtD6w.
 Discuss the advantages, disadvantages, and relative usefulness of using interactive/dynamic visualizations
 versus static visualizations.**
 
 Dynamic visualization is easier for user to capture the trend. Better for interactive media such as web page or mobile device.
 But static visualization is more time efficient in term of information deliver. Also better for static media.
+
 
 
 
