@@ -83,7 +83,7 @@ average broadband subscriber
 ![image](graph/avg_broadband_subscribers_continent.png)
 
 total broadband subscriber
-![image](graph/total_broadband_subscribers_continent.png)
+![image](graph/total_broad_band_subscriber.png)
 
 
 ## Question 5
