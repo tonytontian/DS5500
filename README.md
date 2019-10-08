@@ -69,7 +69,7 @@ Interpret your visualizations, noting any trends and/or outliers.**
 ![image](graph/gdp_child_life.gif)
 
 
-##Question 4
+## Question 4
 
 
 **Choose two variables you have not investigated yet, and visualize their distributions, their relationship with
@@ -80,13 +80,13 @@ I choose to analysis the trend of the broadband subscribers. It turns out the br
 
 
 average broadband subscriber
-![image](graph/avg_broadband_subscriber.png)
+![image](graph/avg_broadband_subscribers_continent.png)
 
 total broadband subscriber
-![image](graph/total_broadband_subscriber.png)
+![image](graph/total_broadband_subscribers_continent.png)
 
 
-##Question 5
+## Question 5
 **Did you use static or interactive plots to answer the previous problems?
 Explore the data using the interactive visualization tools at https://www.gapminder.org/tools, and watch
 the TED talk ?The best stats you have ever seen? at https://www.youtube.com/watch?v=hVimVzgtD6w.
