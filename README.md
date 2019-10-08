@@ -67,6 +67,34 @@ Overall, the gdp per capita is increasing for most of region, but for affrica, t
 mortality over time. How does each measure change over time within each continent?
 Interpret your visualizations, noting any trends and/or outliers.**
 
-![image](graph/gdp_child_life.gif]
+![image](graph/gdp_child_life.gif)
+
+##Question 4
+
+
+**Choose two variables you have not investigated yet, and visualize their distributions, their relationship with
+each other, and how these change over time.
+Interpret your visualizations, noting any trends and/or outliers.**
+
+I choose to analysis the trend of the broadband subscribers. It turns out the broadband subscribing level is raising really quick since 2012 and already surpass the proportion of european. East asian and pacific area now have the largest number of broadband subscribers. But none of any continent region have reach 30% subscribing rate, there is still huge market of broadband internet.
+
+
+average broadband subscriber
+![image](graph/avg_broadband_subscriber.png)
+
+total broadband subscriber
+![image](graph/total_broadband_subscriber.png)
+
+
+##Question 5
+**Did you use static or interactive plots to answer the previous problems?
+Explore the data using the interactive visualization tools at https://www.gapminder.org/tools, and watch
+the TED talk ?The best stats you?ve ever seen? at https://www.youtube.com/watch?v=hVimVzgtD6w.
+Discuss the advantages, disadvantages, and relative usefulness of using interactive/dynamic visualizations
+versus static visualizations.**
+
+Dynamic visualization is easier for user to capture the trend. Better for interactive media such as web page or mobile device.
+But static visualization is more time efficient in term of information deliver. Also better for static media.
+
 
 
